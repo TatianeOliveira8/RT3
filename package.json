@@ -1,0 +1,16 @@
+{
+  "name": "teste-rt3",
+  "version": "1.0.0",
+  "description": "Operações matemáticas básicas",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": ".js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "modulort3": "github:TatianeOliveira8/moduloRT3",
+    "rt3": "github:TatianeOliveira8/moduloRT3"
+  }
+}
